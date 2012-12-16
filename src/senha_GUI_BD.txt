@@ -1,0 +1,1 @@
+Senha para abrir a interface grafica do banco de dados no menu Preferencias: 123456

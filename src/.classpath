@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="bibliotecas/hsqldb/lib/hsqldb.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SistEl/bibliotecas/hsqldb/hsqldb-2.2.8-doc.zip!/hsqldb-2.2.8-doc/apidocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="bibliotecas/hsqldb/lib/sqltool.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jfree/jcommon/jcommon-1.0.17.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/jfree/chart/jfreechart-1.0.14.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SistEl/bibliotecas/jfree/chart/jfreechart-1.0.14-javadocs.zip!/jfreechart-1.0.14-javadocs"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="bibliotecas/swingx/swingx-all-1.6.3.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SistEl/bibliotecas/swingx/swingx-1.6-javadoc.zip!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="bibliotecas/jdatepicker/jdatepicker-1.3.2.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:platform:/resource/SistEl/bibliotecas/jdatepicker/jdatepicker-1.3.2-docs.zip!/javadoc"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="bibliotecas/temas/jgoodies/jgoodies-looks-2.5.2.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/temas/jtatto/JTattoo.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/temas/weblookandfeel/WebLookAndFeel_1_3.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/temas/weblookandfeel/jsyntaxpane-0.9.5-b29.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/temas/substance/substance-theme-pack-tst.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/temas/substance/substance.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/temas/substance/trident.jar"/>
+	<classpathentry kind="lib" path="bibliotecas/temas/jgoodies/jgoodies-common-1.4.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
