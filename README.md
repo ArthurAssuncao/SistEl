@@ -1,8 +1,8 @@
-#SistEl
+SistEl
 ======
 
 Programa para gerência e simulação eleitoral, incluindo cadastro de candidato, cargo e partido e simulação de pesquisa e votação. Usa a API JFreeChart para geração dos gráficos da pesquisa e da apuração.<br />
-Sistema feito em Java como trabalho final para a disciplina de Tecnologia de Orientação a Objetos do 3º período do curso Tecnologia em Sistemas para Internet do Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais.<br />
+Sistema feito em Java como trabalho final para a disciplina de **Tecnologia de Orientação a Objetos** do 3º período do curso **Tecnologia em Sistemas para Internet** do Instituto Federal de Educação, Ciência e Tecnologia do Sudeste de Minas Gerais.<br />
 [Especificação do Trabalho](https://raw.github.com/ArthurAssuncao/SistEl/master/Especificacao_do_Trabalho.pdf)
 
 ##Tecnologias utilizadas
